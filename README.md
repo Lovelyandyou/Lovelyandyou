@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lovelyandyou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/103004471" alt="Brenda Silva" />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/103004471" alt="Brenda Silva"/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
@@ -32,8 +32,7 @@
   </a>
 </div>
 
-<br clear="both">
-### 🐍 Minhas contribuições no último ano
-
-![Snake animation](https://github.com/Lovelyandyou/Lovelyandyou/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/Lovelyandyou/Lovelyandyou/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
