@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lovelyandyou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/SEU_USER_ID" alt="Brenda Silva" />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/Lovelyandyou" alt="Brenda Silva" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
@@ -21,7 +21,7 @@
   <a href="https://instagram.com/cossinsbrenda" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
-  <a href="https://discord.gg/" target="_blank">
+  <a href="https://discord.gg/brendayoung22_52186" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
