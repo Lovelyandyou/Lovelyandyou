@@ -34,4 +34,4 @@
 
 <br clear="both">
 
-<img src="https://github.com/Lovelyandyou/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Lovelyandyou/Lovelyandyou/blob/output/github-contribution-grid-snake.svg)
