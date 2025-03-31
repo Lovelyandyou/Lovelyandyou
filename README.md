@@ -34,4 +34,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Lovelyandyou/Lovelyandyou/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/Lovelyandyou/Lovelyandyou/blob/output/github-contribution-grid-snake.svg)
