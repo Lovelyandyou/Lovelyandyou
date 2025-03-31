@@ -33,6 +33,7 @@
 </div>
 
 <br clear="both">
+### 🐍 Minhas contribuições no último ano
 
 ![Snake animation](https://github.com/Lovelyandyou/Lovelyandyou/blob/output/github-contribution-grid-snake.svg)
 
