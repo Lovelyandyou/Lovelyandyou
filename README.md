@@ -1,4 +1,4 @@
-<h2 align="left">👋 OIE! MEU NOME É BRENDA SILVA, ASPIRANTE A DESENVOLVEDORA WEB S2</h2>
+<h2 align="left">👋 OIE! MEU NOME É BRENDA SILVA, ASPIRANTE EM DESENVOLVEDORA WEB S2</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lovelyandyou&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
