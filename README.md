@@ -1,5 +1,4 @@
-
-<h2 align="left"> OIE! 👋 MEU NOME É BRENDA SILVA, ASPIRANTE DE DESONVOLVEDORA EM WEB S2</h2>
+<h2 align="left">👋 OIE!  MEU NOME É BRENDA SILVA, ASPIRANTE DE DESENVOLVEDORA WEB S2</h2>
 
 
 
@@ -36,8 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Lovelyandyou/Lovelyandyou/output/snake.svg" alt="Snake animation" />
 
 
-
--->
