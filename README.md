@@ -32,12 +32,5 @@
   </a>
 </div>
 
-<br clear="both">
-
-### 🐍 Minhas contribuições no último ano
-
-<div align="center">
-  <img src="https://github.com/Lovelyandyou/Lovelyandyou/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 
